@@ -9,7 +9,7 @@ Este proyecto consiste en la automatización de pruebas para el sistema de gesti
 ## 🔗 Enlaces Obligatorios
 > **Nota para el profesor:** Aquí están los accesos requeridos para la evaluación.
 
-* **🎥 Video Demostrativo (YouTube):** [PEGA AQUÍ TU LINK DE YOUTUBE]
+* **🎥 Video Demostrativo (YouTube):** https://youtu.be/si6Z6FdJKpI
 * **ticket Tablero de Gestión (Jira):** https://zohoidtsuport.atlassian.net/jira/software/projects/KAN/boards/1
 
 
